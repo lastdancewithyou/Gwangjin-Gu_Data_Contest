@@ -23,7 +23,7 @@ Tableau Public 링크
 8개 지점에 모두 SHAP 알고리즘을 적용하고, 결과를 도출함
 
 ## 3. 결과 해석
-도출된 차트들을 바탕으로 아래와 같이 해석함
+도출된 차트들을 바탕으로 아래와 같이 결과를 해석함
 <img width="1440" alt="스크린샷 2024-01-04 오전 10 27 53" src="https://github.com/lastdancewithyou/Gwangjingu_2023/assets/114273570/6c708c86-3337-4d8e-b872-7892cb8fdeed">
 
 ## 4. 정책 제안
